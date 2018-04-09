@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b207982-d784-4df3-b70b-9f1b54b98e3c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PrinterTest.java" afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -27,15 +27,13 @@
           <file leaf-file-name="Printer.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+                <state relative-caret-position="285">
+                  <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                   <folding>
                     <element signature="e#84#85#0" expanded="true" />
                     <element signature="e#126#127#0" expanded="true" />
                     <element signature="e#158#159#0" expanded="true" />
                     <element signature="e#195#196#0" expanded="true" />
-                    <element signature="e#242#243#0" expanded="true" />
-                    <element signature="e#319#320#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -48,7 +46,7 @@
           <file leaf-file-name="PrinterTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="359">
+                <state relative-caret-position="320">
                   <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -670,23 +668,23 @@
     <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 19h 51m 52s.xml">
       <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 19h 54m 06s.xml">
+      <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 19h 55m 29s.xml">
+      <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 20h 00m 04s.xml">
+      <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 23h 28m 33s.xml">
+      <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="PrinterTest - 2018.04.09 at 18h 23m 26s.xml">
       <configuration name="PrinterTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrinterTest - 2018.04.09 at 19h 44m 19s.xml">
       <configuration name="PrinterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WaterBottleTest - 2018.04.09 at 18h 11m 57s.xml">
-      <configuration name="WaterBottleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WaterBottleTest - 2018.04.09 at 18h 14m 09s.xml">
-      <configuration name="WaterBottleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WaterBottleTest - 2018.04.09 at 18h 15m 38s.xml">
-      <configuration name="WaterBottleTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="WaterBottleTest - 2018.04.09 at 18h 23m 21s.xml">
-      <configuration name="WaterBottleTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -875,7 +873,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
+        <state relative-caret-position="320">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -891,15 +889,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
             <element signature="e#126#127#0" expanded="true" />
             <element signature="e#158#159#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
           </folding>
         </state>
       </provider>

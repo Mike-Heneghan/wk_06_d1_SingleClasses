@@ -9,7 +9,11 @@ public class Printer {
         return this.paperLeft;
     }
 
+
     public int print(int pages, int copies) {
-        return (this.paperLeft = (this.paperLeft - (copies * pages)));
+        if (this.paperLeft >= (pages * copies)) {
+            this.paperLeft = (this.paperLeft - (copies * pages));
+        }
+        return this.paperLeft;
     }
 }
