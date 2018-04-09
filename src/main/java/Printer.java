@@ -1,12 +1,15 @@
 public class Printer {
-    private int pages;
+    private int paperLeft;
 
-    public Printer(int pages){
-        this.pages = pages;
+    public Printer(int paperLeft){
+        this.paperLeft = paperLeft;
     }
 
-    public int getPages(){
-        return this.pages;
+    public int getPaperLeft(){
+        return this.paperLeft;
     }
 
+    public int print(int pages, int copies) {
+        return (this.paperLeft = (this.paperLeft - (copies * pages)));
+    }
 }

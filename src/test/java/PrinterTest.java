@@ -12,13 +12,20 @@ public class PrinterTest {
     }
 
     @Test
-    public void hasPages(){
-        assertEquals(100,printer1.getPages());
+    public void hasPaper(){
+        assertEquals(100,printer1.getPaperLeft());
     }
 
+    @Test
+    public void canPrint(){
+        assertEquals(50, printer1.print(5,10));
+    }
 
-
-
+    @Test
+    public void wontPrint(){
+        printer1.print(10, 12);
+        assertEquals(100, printer1.getPaperLeft());
+    }
 
 
 
