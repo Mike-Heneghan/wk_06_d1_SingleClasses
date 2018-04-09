@@ -1,8 +1,10 @@
 public class Printer {
     private int paperLeft;
+    private int tonerVolume;
 
-    public Printer(int paperLeft){
+    public Printer(int paperLeft, int tonerVolume){
         this.paperLeft = paperLeft;
+        this.tonerVolume = tonerVolume;
     }
 
     public int getPaperLeft(){
@@ -16,4 +18,13 @@ public class Printer {
         }
         return this.paperLeft;
     }
+
+    public void refill(int refill){
+        this.paperLeft = this.paperLeft + refill;
+    }
+
+    public int getToner(){
+        return this.tonerVolume;
+    }
+
 }

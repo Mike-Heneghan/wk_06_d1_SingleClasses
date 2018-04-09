@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b207982-d784-4df3-b70b-9f1b54b98e3c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PrinterTest.java" afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -27,13 +27,15 @@
           <file leaf-file-name="Printer.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <state relative-caret-position="435">
+                  <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
                   <folding>
-                    <element signature="e#84#85#0" expanded="true" />
-                    <element signature="e#126#127#0" expanded="true" />
-                    <element signature="e#158#159#0" expanded="true" />
-                    <element signature="e#195#196#0" expanded="true" />
+                    <element signature="e#244#245#0" expanded="true" />
+                    <element signature="e#281#282#0" expanded="true" />
+                    <element signature="e#529#530#0" expanded="true" />
+                    <element signature="e#585#586#0" expanded="true" />
+                    <element signature="e#613#614#0" expanded="true" />
+                    <element signature="e#652#653#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -46,16 +48,18 @@
           <file leaf-file-name="PrinterTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="320">
-                  <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+                <state relative-caret-position="339">
+                  <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#189#190#0" expanded="true" />
-                    <element signature="e#232#233#0" expanded="true" />
-                    <element signature="e#271#272#0" expanded="true" />
-                    <element signature="e#328#329#0" expanded="true" />
-                    <element signature="e#367#368#0" expanded="true" />
-                    <element signature="e#421#422#0" expanded="true" />
+                    <element signature="e#237#238#0" expanded="true" />
+                    <element signature="e#276#277#0" expanded="true" />
+                    <element signature="e#333#334#0" expanded="true" />
+                    <element signature="e#372#373#0" expanded="true" />
+                    <element signature="e#426#427#0" expanded="true" />
+                    <element signature="e#722#723#0" expanded="true" />
+                    <element signature="e#776#777#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -656,9 +660,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 19h 44m 23s.xml">
-      <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 19h 46m 48s.xml">
       <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
     </history-entry>
@@ -680,11 +681,14 @@
     <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 23h 28m 33s.xml">
       <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrinterTest - 2018.04.09 at 18h 23m 26s.xml">
-      <configuration name="PrinterTest" configurationId="JUnit" />
+    <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 23h 33m 26s.xml">
+      <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrinterTest - 2018.04.09 at 19h 44m 19s.xml">
-      <configuration name="PrinterTest" configurationId="JUnit" />
+    <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 23h 43m 03s.xml">
+      <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 23h 43m 13s.xml">
+      <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -873,29 +877,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="339">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
           </folding>
         </state>
       </provider>
