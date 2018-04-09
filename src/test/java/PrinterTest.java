@@ -5,10 +5,12 @@ import static org.junit.Assert.assertEquals;
 
 public class PrinterTest {
     private Printer printer1;
+    private Printer printer2;
 
     @Before
     public void before(){
         printer1 = new Printer(100, 100);
+        printer2 = new Printer(200, 40);
     }
 
     @Test
@@ -42,6 +44,12 @@ public class PrinterTest {
     public void tonerVolumeReduces(){
         printer1.print(5, 10);
         assertEquals(50, printer1.getToner());
+    }
+
+    @Test
+    public void tonerWontReduce(){
+        printer2.print(5,50);
+        assertEquals(40, printer2.getToner());
     }
 
 }

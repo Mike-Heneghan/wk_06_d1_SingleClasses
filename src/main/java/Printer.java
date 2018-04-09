@@ -13,10 +13,11 @@ public class Printer {
 
 
     public int print(int pages, int copies) {
-        if (this.paperLeft >= (pages * copies)) {
+        if ((this.paperLeft >= (pages * copies)) && (this.tonerVolume >= (pages * copies))) {
             this.paperLeft = (this.paperLeft - (copies * pages));
+            this.tonerVolume = (this.tonerVolume - (copies * pages));
         }
-        return this.paperLeft;
+        return (this.paperLeft);
     }
 
     public void refill(int refill){
