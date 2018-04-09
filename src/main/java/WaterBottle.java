@@ -21,4 +21,3 @@ public class WaterBottle {
         return this.volume = 100;
     }
 }
-    
