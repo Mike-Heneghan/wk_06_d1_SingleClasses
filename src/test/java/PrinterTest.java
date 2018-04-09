@@ -38,6 +38,12 @@ public class PrinterTest {
         assertEquals(100, printer1.getToner());
     }
 
+    @Test
+    public void tonerVolumeReduces(){
+        printer1.print(5, 10);
+        assertEquals(50, printer1.getToner());
+    }
+
 }
 
 

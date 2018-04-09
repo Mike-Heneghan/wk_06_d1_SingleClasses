@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b207982-d784-4df3-b70b-9f1b54b98e3c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PrinterTest.java" afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,8 +47,8 @@
           <file leaf-file-name="PrinterTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="339">
-                  <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+                <state relative-caret-position="385">
+                  <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#189#190#0" expanded="true" />
@@ -376,8 +375,8 @@
         <option value="$PROJECT_DIR$/src/test/java/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/WaterBottle.java" />
         <option value="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Printer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
       </list>
     </option>
   </component>
@@ -660,9 +659,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 19h 46m 48s.xml">
-      <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 19h 48m 18s.xml">
       <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
     </history-entry>
@@ -688,6 +684,9 @@
       <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 23h 43m 13s.xml">
+      <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_HomeworkSingleClasses_test - 2018.04.09 at 23h 45m 21s.xml">
       <configuration name="All in HomeworkSingleClasses_test" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -875,24 +874,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -904,6 +885,24 @@
             <element signature="e#585#586#0" expanded="true" />
             <element signature="e#613#614#0" expanded="true" />
             <element signature="e#652#653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
           </folding>
         </state>
       </provider>
