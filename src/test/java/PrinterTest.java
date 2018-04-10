@@ -20,7 +20,8 @@ public class PrinterTest {
 
     @Test
     public void canPrint(){
-        assertEquals(50, printer1.print(5,10));
+        printer1.print(5, 10);
+        assertEquals(50, printer1.getPaperLeft());
     }
 
     @Test

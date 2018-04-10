@@ -8,16 +8,24 @@ public class Printer {
     }
 
     public int getPaperLeft(){
-        return this.paperLeft;
+        return paperLeft;
     }
 
 
-    public int print(int pages, int copies) {
-        if ((this.paperLeft >= (pages * copies)) && (this.tonerVolume >= (pages * copies))) {
-            this.paperLeft = (this.paperLeft - (copies * pages));
-            this.tonerVolume = (this.tonerVolume - (copies * pages));
+//    public void print(int pages, int copies) {
+//        if ((this.paperLeft > (pages * copies)) && (this.tonerVolume > (pages * copies))) {
+//            this.paperLeft = (this.paperLeft - (copies * pages));
+//            this.tonerVolume = (this.tonerVolume - (copies * pages));
+//        }
+//
+//    }
+
+    public void print(int pages, int copies) {
+        int totalPages = pages * copies;
+            if ((this.paperLeft > totalPages) && (this.tonerVolume > totalPages)){
+                this.paperLeft -= totalPages;
+                this.tonerVolume -= totalPages;
         }
-        return (this.paperLeft);
     }
 
     public void refill(int refill){
